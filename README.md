@@ -6,6 +6,6 @@ I'm motivated to always give my best in the conditions I have, until I have bett
 
 Passionate about programming, always looking to improve my knowledge.
 - Experience with: NodeJS, VS Code, JavaScript, HTML, CSS, SCSS, GitHub, MySQL, Sequelize, etc.
-- Studying: ReactJS
+- Studying: ReactJS, Graphql, Apollo.
 
 Hobby: Photoshop, CorelDraw, Illustrator.
