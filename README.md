@@ -9,3 +9,6 @@ Passionate about programming, always looking to improve my knowledge.
 - Studying: ReactJS, Graphql, Apollo.
 
 Hobby: Photoshop, CorelDraw, Illustrator.
+
+<!--START_SECTION:waka-->
+<!--END_SECTION:waka-->
