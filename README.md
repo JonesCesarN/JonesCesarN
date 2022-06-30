@@ -12,5 +12,5 @@ Hobby: Photoshop, CorelDraw, Illustrator.
 
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-10%20hr%2024%20mins-blue)
+
 <!--END_SECTION:waka-->
