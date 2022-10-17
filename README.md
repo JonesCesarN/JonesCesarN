@@ -9,4 +9,12 @@ Passionate about programming, always looking to improve my knowledge.
 Hobby: Photoshop, CorelDraw, Illustrator.
 
 <!--START_SECTION:waka-->
+
+```text
+TypeScript   28 hrs 23 mins  ███████████████░░░░░░░░░░   59.98 %
+JavaScript   13 hrs 34 mins  ███████▒░░░░░░░░░░░░░░░░░   28.67 %
+JSON         2 hrs 29 mins   █▒░░░░░░░░░░░░░░░░░░░░░░░   05.27 %
+Other        1 hr 59 mins    █░░░░░░░░░░░░░░░░░░░░░░░░   04.19 %
+```
+
 <!--END_SECTION:waka-->
