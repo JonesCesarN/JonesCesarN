@@ -10,7 +10,7 @@ Passionate about programming, always looking to improve my knowledge.
 
 Hobby: Photoshop, CorelDraw, Illustrator.
 
-<figure><embed src="https://wakatime.com/share/@5f790a31-ead4-4b94-8005-0cf379579b2d/f2cede52-7fde-401c-966a-b8f4e8b475d2.svg"></embed></figure>
+<figure><embed src="https://wakatime.com/share/@5f790a31-ead4-4b94-8005-0cf379579b2d/2026aed5-1786-42fd-8904-7dd720a9c503.svg"></embed></figure>
 
 <!--START_SECTION:waka-->
 
