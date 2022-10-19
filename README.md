@@ -8,7 +8,7 @@ Passionate about programming, always looking to improve my knowledge.
 Hobby: Photoshop, CorelDraw, Illustrator.
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-758%20hrs%2018%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-762%20hrs%2023%20mins-blue)
 
 **I'm an Early 🐤** 
 
@@ -48,5 +48,5 @@ Shell                    2 repos             ⣿⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀�
 
 
 
- Last Updated on 19/10/2022 12:29:58 UTC
+ Last Updated on 19/10/2022 18:27:55 UTC
 <!--END_SECTION:waka-->
