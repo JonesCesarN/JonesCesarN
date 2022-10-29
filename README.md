@@ -8,7 +8,7 @@ Passionate about programming, always looking to improve my knowledge.
 Hobby: Photoshop, CorelDraw, Illustrator.
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-866%20hrs%2050%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-867%20hrs%2057%20mins-blue)
 
 **I'm an Early 🐤** 
 
@@ -27,11 +27,11 @@ Hobby: Photoshop, CorelDraw, Illustrator.
 ⌚︎ Time Zone: America/Sao_Paulo
 
 💬 Programming Languages: 
-TypeScript               59 hrs 13 mins      ⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣀⣀⣀⣀⣀⣀   79.02% 
-JSON                     5 hrs 11 mins       ⣿⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   6.93% 
-Vue.js                   4 hrs 21 mins       ⣿⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   5.81% 
-JavaScript               2 hrs 23 mins       ⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   3.19% 
-Other                    1 hr 24 mins        ⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   1.88%
+TypeScript               60 hrs 14 mins      ⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣀⣀⣀⣀⣀⣀   79.38% 
+JSON                     4 hrs 32 mins       ⣿⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   5.98% 
+Vue.js                   4 hrs 21 mins       ⣿⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   5.73% 
+JavaScript               2 hrs 16 mins       ⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   3.0% 
+Other                    2 hrs 7 mins        ⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   2.8%
 
 ```
 
@@ -48,5 +48,5 @@ Shell                    1 repo              ⣿⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀�
 
 
 
- Last Updated on 29/10/2022 01:12:46 UTC
+ Last Updated on 29/10/2022 12:27:16 UTC
 <!--END_SECTION:waka-->
