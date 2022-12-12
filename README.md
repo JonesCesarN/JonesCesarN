@@ -39,7 +39,7 @@ Passionate about programming, always looking to improve my knowledge.
 
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-1%2C185%20hrs%2051%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-1%2C190%20hrs%2017%20mins-blue)
 
 **I'm an Early 🐤** 
 
@@ -71,5 +71,5 @@ Windows                  23 mins             ⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀�
 ```
 
 
- Last Updated on 11/12/2022 12:21:44 UTC
+ Last Updated on 12/12/2022 01:02:22 UTC
 <!--END_SECTION:waka-->
