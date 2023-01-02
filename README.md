@@ -39,7 +39,7 @@ Passionate about programming, always looking to improve my knowledge.
 
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-1%2C365%20hrs%2048%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-1%2C370%20hrs%2050%20mins-blue)
 
 **I'm an Early 🐤** 
 
@@ -70,5 +70,5 @@ WSL                      49 hrs 43 mins      ⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿�
 ```
 
 
- Last Updated on 01/01/2023 12:20:51 UTC
+ Last Updated on 02/01/2023 00:57:34 UTC
 <!--END_SECTION:waka-->
