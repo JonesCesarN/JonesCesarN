@@ -3,7 +3,7 @@ name: Waka Readme
 on:
   schedule:
     # Runs every 12 hours
-    - cron: '0 */12 * * *'
+    - cron: '0 */24 * * *'
   workflow_dispatch:
 
 jobs:
@@ -27,4 +27,4 @@ jobs:
           SHOW_DAYS_OF_WEEK: "False"
           SHOW_COMMIT: "True"
           SYMBOL_VERSION: "2"
-          SHOW_TOTAL_CODE_TIME: "false"
+          SHOW_TOTAL_CODE_TIME: "true"
