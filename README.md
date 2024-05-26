@@ -5,7 +5,7 @@
 [![Linkedin Badge](https://img.shields.io/badge/-Jones%20Cesar-673ab7?style=plastic&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/)](https://www.linkedin.com/in/jonescesarn/)
 
 - 👩‍💻 _Trabalho com desenvolvimento web (front/back)_
-  - _Node, Typescript, Docker, Express, Mysql, Prisma, React, Nginx ..._
+  - _Node, Typescript, Docker, Express, Mysql, Prisma, React, Nginx, ..._
 - 🌱 _Estudando React native_
   - _Expo, CLI, Xcode, AndroidStudio_
 
