@@ -10,7 +10,7 @@
   - _React, React native, Expo_
   - _Node, Typescript, Docker, Mysql, Nginx, CI_
 - 🌱 _Planejando estudar;_
-  - _Pyhton_
+  - _Python_
 
 ![](https://img.shields.io/badge/-1c1c1c?style=plastic&logo=Apple)
 ![](https://img.shields.io/badge/-1c1c1c?style=plastic&logo=Windows)
