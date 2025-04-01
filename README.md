@@ -16,11 +16,13 @@
 ![](https://img.shields.io/badge/-1c1c1c?style=plastic&logo=Windows)
 ![](https://img.shields.io/badge/-1c1c1c?style=plastic&logo=Ubuntu)
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-6%2C476%20hrs%2031%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-6%2C477%20hrs%2031%20mins-blue)
 
 **🐱 My GitHub Data** 
 
 > 📦 35.0 kB Used in GitHub's Storage 
+ > 
+> 🏆 74 Contributions in the Year 2025
  > 
 > 🚫 Not Opted to Hire
  > 
@@ -44,5 +46,5 @@ Mac                      11 hrs 8 mins       ⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿�
 ```
 
 
- Last Updated on 31/03/2025 00:12:06 UTC
+ Last Updated on 01/04/2025 00:13:18 UTC
 <!--END_SECTION:waka-->
