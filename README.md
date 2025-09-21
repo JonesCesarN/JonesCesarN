@@ -16,8 +16,6 @@
 ![](https://img.shields.io/badge/-1c1c1c?style=plastic&logo=Windows)
 ![](https://img.shields.io/badge/-1c1c1c?style=plastic&logo=Ubuntu)
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-7%2C282%20hrs%2013%20mins-blue)
-
 **🐱 My GitHub Data** 
 
 > 📦 35.6 kB Used in GitHub's Storage 
@@ -30,6 +28,22 @@
  > 
 > 🔑 44 Private Repositories 
  > 
+📊 **This Week I Spent My Time On** 
 
- Last Updated on 20/09/2025 00:12:33 UTC
+```text
+🕑︎ Time Zone: America/Sao_Paulo
+
+💬 Programming Languages: 
+TypeScript               34 hrs 8 mins       ⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣀   94.64 % 
+Prisma                   47 mins             ⣿⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   02.19 % 
+Bash                     27 mins             ⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   01.28 % 
+YAML                     22 mins             ⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   01.06 % 
+Docker                   12 mins             ⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   00.60 % 
+
+💻 Operating System: 
+WSL                      36 hrs 4 mins       ⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿   100.00 % 
+```
+
+
+ Last Updated on 21/09/2025 00:12:57 UTC
 <!--END_SECTION:waka-->
