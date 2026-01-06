@@ -16,7 +16,7 @@
 ![](https://img.shields.io/badge/-1c1c1c?style=plastic&logo=Windows)
 ![](https://img.shields.io/badge/-1c1c1c?style=plastic&logo=Ubuntu)
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-7%2C722%20hrs%202%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-7%2C729%20hrs%2040%20mins-blue?style=flat)
 
 **🐱 My GitHub Data** 
 
@@ -48,5 +48,5 @@ Windows                  32 mins             ⣿⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀�
 ```
 
 
- Last Updated on 05/01/2026 00:15:09 UTC
+ Last Updated on 06/01/2026 00:13:55 UTC
 <!--END_SECTION:waka-->
