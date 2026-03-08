@@ -16,7 +16,7 @@
 ![](https://img.shields.io/badge/-1c1c1c?style=plastic&logo=Windows)
 ![](https://img.shields.io/badge/-1c1c1c?style=plastic&logo=Ubuntu)
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-7%2C889%20hrs%2016%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-7%2C889%20hrs%2032%20mins-blue?style=flat)
 
 **🐱 My GitHub Data** 
 
@@ -36,16 +36,16 @@
 🕑︎ Time Zone: America/Sao_Paulo
 
 💬 Programming Languages: 
-TypeScript               12 hrs 27 mins      ⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣀⣀⣀   87.76 % 
-Prisma                   1 hr 12 mins        ⣿⣿⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   08.46 % 
-Bash                     15 mins             ⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   01.76 % 
-JavaScript               6 mins              ⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   00.78 % 
-Other                    5 mins              ⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   00.63 % 
+TypeScript               12 hrs 41 mins      ⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣀⣀⣀⣀   84.96 % 
+Prisma                   1 hr 30 mins        ⣿⣿⣿⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   10.16 % 
+Bash                     28 mins             ⣿⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   03.16 % 
+Other                    5 mins              ⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   00.59 % 
+JSON                     5 mins              ⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   00.57 % 
 
 💻 Operating System: 
-WSL                      14 hrs 11 mins      ⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿   100.00 % 
+WSL                      14 hrs 55 mins      ⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿   100.00 % 
 ```
 
 
- Last Updated on 07/03/2026 00:16:38 UTC
+ Last Updated on 08/03/2026 00:16:38 UTC
 <!--END_SECTION:waka-->
