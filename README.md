@@ -1,7 +1,7 @@
 # Oi, me chamo Jones 👋
 
 ### Sobre mim
-[![Email](https://img.shields.io/badge/-jonescnoel@icloud.com-673ab7?style=plastic&logo=maildotru&logoColor=white&link=mailto:jonescnoel@icloud.com)](mailto:jonescnoel@gmail.com)
+[![Email](https://img.shields.io/badge/-jonescnoel@gmail.com-673ab7?style=plastic&logo=maildotru&logoColor=white&link=mailto:jonescnoel@icloud.com)](mailto:jonescnoel@gmail.com)
 [![Linkedin Badge](https://img.shields.io/badge/-Jones%20Cesar-673ab7?style=plastic&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/)](https://www.linkedin.com/in/jonescesarn/)
 
 - 👩‍💻 _Trabalho com desenvolvimento web/mobile (front/back)_
